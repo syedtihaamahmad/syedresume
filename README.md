@@ -3,7 +3,12 @@
 
 </ul>
 <h5> And! </h5>
-I’m currently learning everything 🤓
+I’m a life long learner and curiosity keeps me motivated🤓. Please check my projects spanning in different interdisciplinary fields such as:
+<li>Development</li>
+<li>Machine learning</li>
+<li>Deep learning</li>
+<li>Quantum Computing</li>
+
 
 ### Languages and Tools:
 <img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
