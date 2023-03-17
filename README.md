@@ -1,6 +1,5 @@
 ## Welcome to Syed Tihaam Ahmad's Github account
 <ul>  
-  <li>I have been in the field since 2016</li>
 
 </ul>
 <h5> And! </h5>
