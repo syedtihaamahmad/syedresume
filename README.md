@@ -6,6 +6,8 @@ I’m a life long learner and curiosity keeps me motivated🤓. Please check my 
 <li>Machine Learning</li>
 <li>Deep Neural Networks</li>
 <li>Quantum Computing</li>
+<li>Embedded Systems</li>
+<li>FPGAs</li>
 
 
 ### Languages and Tools:
@@ -27,4 +29,4 @@ I’m a life long learner and curiosity keeps me motivated🤓. Please check my 
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br/><br/><br/>
-<h4> Note:</h4> I would also include Java, Python, PHP, C++, SQL in the list of my most used languages. 
+<h4> Note:</h4> I would also include Java, Python, C, C++, SQL in the list of my most used languages. 
