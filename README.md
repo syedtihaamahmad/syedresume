@@ -1,8 +1,6 @@
 ## Welcome to Syed Tihaam Ahmad's Github account
-<ul>  
 
-</ul>
-<h5> And! </h5>
+
 I’m a life long learner and curiosity keeps me motivated🤓. Please check my projects spanning in different interdisciplinary fields such as:
 <li>Development</li>
 <li>Machine Learning</li>
